@@ -47,6 +47,7 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
     background-position-y: top;
+    padding-right: 50px;
 }
 
 .experience-area{
@@ -69,14 +70,20 @@ h2{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+    padding-right: 25px;
 }
 
 #full-stack-exp{
     border-left: 7px solid;
     border-image: linear-gradient(salmon, tomato);
     border-image-slice: 1;
+    padding-right: 25px;
 }
 
 footer p{
     text-align: center;
+}
+
+p{
+    text-align: justify;
 }
